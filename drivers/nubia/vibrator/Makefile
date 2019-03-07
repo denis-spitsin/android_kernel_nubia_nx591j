@@ -1,3 +1,0 @@
-obj-$(CONFIG_NUBIA_VIBRATOR_DRV2605) += drv2605.o
-
-
